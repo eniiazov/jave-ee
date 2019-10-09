@@ -1,6 +1,6 @@
 package scanners;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class MinsToHours {
 
@@ -13,6 +13,6 @@ public class MinsToHours {
 
         System.out.println(mins + " minutes is " + hours +
                 " hours and " + remaindingMinutes + " minutes");
-
+        scanner.close();
     }
 }
