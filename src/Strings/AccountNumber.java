@@ -11,7 +11,11 @@ public class AccountNumber {
         String num = input.nextLine();
         String firstNumber = num.substring(0,1);
 
-        boolean invalid = !firstNumber.equals("5") || !firstNumber.equals("2");
+        boolean invalid = true;
+        if(!firstNumber.equals("5") || !firstNumber.equals("2")) {
+            invalid = false;
+        }
+
 
         if (invalid) {
             System.out.println("Invalid account number");
