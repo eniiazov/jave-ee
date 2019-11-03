@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 public class addNumbersToString {
     public static void main(String[] args) {
-        addNumToString("9843263", 5);
+        addNumbersToString.addNumToString("9843263", 5);
+
     }
 
     public static void addNumToString(String number, int add) {
