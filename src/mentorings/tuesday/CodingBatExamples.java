@@ -17,6 +17,10 @@ public class CodingBatExamples {
         /*  <<<Yay>>>  */
         makeOutWord("<<<>>>", "Yay");
 
+        String result = makeAbba("Hi","Bye");
+        returnName(result);
+
+
     }
 
     //Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".
@@ -30,7 +34,6 @@ public class CodingBatExamples {
 
     public static String makeAbba(String a, String b) {
         String result = a + b + b + a;
-        System.out.println(result);
         return result;
     }
 
@@ -46,7 +49,6 @@ public class CodingBatExamples {
                 , tag, word, tag);
         // <i>
         System.out.println(result);
-
         return String.format("<%s>%s</%s>"
                 , tag, word, tag);
     }
@@ -60,5 +62,9 @@ public class CodingBatExamples {
     public static String makeOutWord(String out, String word) {
         System.out.println(out.substring(0, out.length()/2) + word + out.substring(out.length()/2));
         return out.substring(0, out.length()/2) + word + out.substring(out.length()/2);
+    }
+
+    public static void returnName(String name){
+        System.out.println(name);
     }
 }
