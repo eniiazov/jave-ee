@@ -1,4 +1,4 @@
-package casses;
+package classes;
 
 public class Car {
 
