@@ -17,8 +17,10 @@ public class Testing {
 
         Flag f2 = new Flag();
         //System.out.println(f2.country);
+        if(f2.country == null);
 
-        f2.info();
+        int [] a ;
+       // f2.info();
 
     }
 }
