@@ -3,8 +3,9 @@ package classes;
 public class Book {
 
     String title;
-    String author;
+    Author author = new Author();
     int pages;
+    int [] chapters;
 
     public Book(String title) {
         this.title = title;
@@ -12,7 +13,7 @@ public class Book {
 
     public Book(String title, String author) {
         this(title);
-        this.author = author;
+        this.author.name = author;
     }
 
     public Book(String title, String author, int pages) {
