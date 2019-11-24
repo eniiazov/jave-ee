@@ -13,6 +13,7 @@ public class ItemShop {
 
         Item [] myItems = new Item[numOfItems];
 
+
         for (int i=0; i < myItems.length; i++) {
 
             System.out.println("Enter the name of item " + (i+1));
