@@ -67,8 +67,4 @@ public class CodingBatExamples {
     public static void returnName(String name){
         System.out.println(name);
     }
-
-
-
-
 }

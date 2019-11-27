@@ -3,7 +3,7 @@ package wrapperclasses;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class MagicNumber {
+    public class MagicNumber {
 
 
     ArrayList<Integer> numbers = new ArrayList<>();

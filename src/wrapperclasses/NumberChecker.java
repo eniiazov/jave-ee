@@ -9,5 +9,6 @@ public class NumberChecker {
 
         magicNumber.generateEvens(8);
         System.out.println(magicNumber.numbers);
+
     }
 }

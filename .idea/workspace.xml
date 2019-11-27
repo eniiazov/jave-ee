@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77994e78-d0d8-456a-ab26-3f5683cbab15" name="Default Changelist" comment="overloading methods -- 11/5">
-      <change afterPath="$PROJECT_DIR$/src/classes/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/DebitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/FacebookUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentorings/tuesday/hackerRankExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticClass/BestBuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticClass/BestBuyStores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mentorings/tuesday/CodingBatExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mentorings/tuesday/CodingBatExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wrapperclasses/MagicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wrapperclasses/MagicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wrapperclasses/NumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wrapperclasses/NumberChecker.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,59 +23,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/DebitCard.java">
+        <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1301">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/FacebookUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classes/Facebook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="491">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="30" />
               <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/Author.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuyStores.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/DebitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="297">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -107,16 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/methods/palindrome.java" />
-        <option value="$PROJECT_DIR$/src/methods/weekdays.java" />
-        <option value="$PROJECT_DIR$/src/methods/countEvenNums.java" />
-        <option value="$PROJECT_DIR$/src/methods/createArray.java" />
-        <option value="$PROJECT_DIR$/src/methods/difference.java" />
-        <option value="$PROJECT_DIR$/src/methods/math.java" />
-        <option value="$PROJECT_DIR$/src/methods/temp.java" />
-        <option value="$PROJECT_DIR$/src/methods/overLoading.java" />
-        <option value="$PROJECT_DIR$/src/methods/datatypePromotion.java" />
-        <option value="$PROJECT_DIR$/src/methods/addToArray.java" />
         <option value="$PROJECT_DIR$/src/methods/stringOverload.java" />
         <option value="$PROJECT_DIR$/src/methods/firstWordSecondWord.java" />
         <option value="$PROJECT_DIR$/src/methods/startsWithOverload.java" />
@@ -144,12 +97,9 @@
         <option value="$PROJECT_DIR$/src/constructors/Sky.java" />
         <option value="$PROJECT_DIR$/src/constructors/PhoneTest.java" />
         <option value="$PROJECT_DIR$/src/constructors/Phone.java" />
-        <option value="$PROJECT_DIR$/src/mentorings/tuesday/CodingBatExamples.java" />
         <option value="$PROJECT_DIR$/src/classes/Testing.java" />
         <option value="$PROJECT_DIR$/src/classes/BookStore.java" />
         <option value="$PROJECT_DIR$/src/classes/library.java" />
-        <option value="$PROJECT_DIR$/src/classes/ItemShop.java" />
-        <option value="$PROJECT_DIR$/src/classes/Item.java" />
         <option value="$PROJECT_DIR$/src/classes/Student.java" />
         <option value="$PROJECT_DIR$/src/classes/usingStudents.java" />
         <option value="$PROJECT_DIR$/src/classes/DebitCard.java" />
@@ -158,10 +108,23 @@
         <option value="$PROJECT_DIR$/src/classes/Author.java" />
         <option value="$PROJECT_DIR$/src/classes/Book.java" />
         <option value="$PROJECT_DIR$/src/classes/Facebook.java" />
+        <option value="$PROJECT_DIR$/src/classes/ItemShop.java" />
+        <option value="$PROJECT_DIR$/src/arraylists/Cat.java" />
+        <option value="$PROJECT_DIR$/src/arraylists/Speaker.java" />
+        <option value="$PROJECT_DIR$/src/classes/Item.java" />
+        <option value="$PROJECT_DIR$/src/arraylists/Store.java" />
+        <option value="$PROJECT_DIR$/src/arraylists/Mall.java" />
+        <option value="$PROJECT_DIR$/src/wrapperclasses/Parking.java" />
+        <option value="$PROJECT_DIR$/src/wrapperclasses/NumberChecker.java" />
+        <option value="$PROJECT_DIR$/src/wrapperclasses/MagicNumber.java" />
+        <option value="$PROJECT_DIR$/src/mentorings/tuesday/CodingBatExamples.java" />
+        <option value="$PROJECT_DIR$/src/mentorings/tuesday/hackerRankExamples.java" />
+        <option value="$PROJECT_DIR$/src/staticClass/BestBuyStores.java" />
+        <option value="$PROJECT_DIR$/src/staticClass/BestBuy.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -189,14 +152,14 @@
               <item name="Batch14Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Batch14Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="staticClass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,13 +182,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Facebook">
-    <configuration name="DebitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.DebitTest" />
+  <component name="RunManager" selected="Application.BestBuyStores">
+    <configuration name="BestBuyStores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticClass.BestBuyStores" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.*" />
+          <option name="PATTERN" value="staticClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.Facebook" />
+    <configuration name="Mall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylists.Mall" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.*" />
+          <option name="PATTERN" value="arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ItemShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.ItemShop" />
+    <configuration name="NumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapperclasses.NumberChecker" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.*" />
+          <option name="PATTERN" value="wrapperclasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.library" />
+    <configuration name="Parking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapperclasses.Parking" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.*" />
+          <option name="PATTERN" value="wrapperclasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="usingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.usingStudents" />
+    <configuration name="hackerRankExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentorings.tuesday.hackerRankExamples" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.*" />
+          <option name="PATTERN" value="mentorings.tuesday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Facebook" />
-        <item itemvalue="Application.DebitTest" />
-        <item itemvalue="Application.usingStudents" />
-        <item itemvalue="Application.ItemShop" />
-        <item itemvalue="Application.library" />
+        <item itemvalue="Application.BestBuyStores" />
+        <item itemvalue="Application.hackerRankExamples" />
+        <item itemvalue="Application.NumberChecker" />
+        <item itemvalue="Application.Parking" />
+        <item itemvalue="Application.Mall" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +437,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574031873830</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Arraylist">
+      <created>1574617454132</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1574617454132</updated>
+    </task>
+    <task id="LOCAL-00026" summary="overloading methods -- 11/5">
+      <created>1574629891268</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1574629891268</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Wrapper classes">
+      <created>1574636249971</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1574636249971</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -490,7 +474,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.17545748" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.17814855" />
       <window_info id="Structure" order="1" sideWeight="0.50212765" side_tool="true" weight="0.18729816" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -499,15 +483,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281893" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.58950615" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3600823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4814815" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921812" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.44341564" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.27160493" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3281893" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3281893" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.27160493" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497309" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -566,8 +550,10 @@
     <MESSAGE value="Return method -- 11/2" />
     <MESSAGE value="Return methods -- 11/3" />
     <MESSAGE value="Custom classes" />
+    <MESSAGE value="Arraylist" />
     <MESSAGE value="overloading methods -- 11/5" />
-    <option name="LAST_COMMIT_MESSAGE" value="overloading methods -- 11/5" />
+    <MESSAGE value="Wrapper classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrapper classes" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -637,128 +623,6 @@ out.substring(out.length()/2)</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/methods/countEvenNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/difference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/temp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/datatypePromotion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/overLoading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/stringOverload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/dataTranfer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/addNumbersToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/addToArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/startsWithOverload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="63" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methods/varArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/methods/createArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -935,13 +799,6 @@ out.substring(out.length()/2)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mentorings/tuesday/CodingBatExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/Testing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
@@ -978,20 +835,6 @@ out.substring(out.length()/2)</expression-string>
             <element signature="e#22786#22787#0" expanded="true" />
             <element signature="e#22821#22822#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/ItemShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -1044,13 +887,6 @@ out.substring(out.length()/2)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/Author.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/FacebookUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31">
@@ -1058,10 +894,143 @@ out.substring(out.length()/2)</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="21" selection-start-line="2" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/Facebook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="145">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraylists/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraylists/Speaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraylists/Mall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ItemShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wrapperclasses/MagicNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wrapperclasses/NumberChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wrapperclasses/Parking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17487">
+          <caret line="631" column="32" selection-start-line="631" selection-start-column="32" selection-end-line="631" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="643" column="27" lean-forward="true" selection-start-line="643" selection-start-column="27" selection-end-line="643" selection-end-column="27" />
+          <folding>
+            <element signature="e#46227#46228#0" expanded="true" />
+            <element signature="e#46266#46267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mentorings/tuesday/hackerRankExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mentorings/tuesday/CodingBatExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraylists/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuyStores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
