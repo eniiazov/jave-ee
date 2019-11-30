@@ -1,4 +1,4 @@
-package wrapperclasses;
+package utilities;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -6,7 +6,7 @@ import java.util.Random;
     public class MagicNumber {
 
 
-    ArrayList<Integer> numbers = new ArrayList<>();
+    public ArrayList<Integer> numbers = new ArrayList<>();
 
     public void generateNumbers(int size){
         numbers.clear();

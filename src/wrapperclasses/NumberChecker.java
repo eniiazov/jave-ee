@@ -1,5 +1,7 @@
 package wrapperclasses;
 
+import utilities.MagicNumber;
+
 public class NumberChecker {
 
     public static void main(String[] args) {
