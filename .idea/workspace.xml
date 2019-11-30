@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77994e78-d0d8-456a-ab26-3f5683cbab15" name="Default Changelist" comment="overloading methods -- 11/5">
-      <change afterPath="$PROJECT_DIR$/src/staticClass/Dealer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticClass/ImportingStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticClass/Lexus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticClass/Pi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticExamples/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticExamples/Tea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch14Java/staticClass/BestBuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch14Java/staticClass/BestBuy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticClass/BestBuyStores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticClass/BestBuyStores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Batch14Java/staticClass/BestBuyStores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch14Java/staticClass/BestBuyStores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticClass/Pi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticClass/Pi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,69 +19,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticClass/Lexus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-              <folding>
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticClass/ImportingStatic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticClass/Pi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticClass/Dealer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuyStores.java">
+        <entry file="file://$PROJECT_DIR$/src/staticExamples/Tea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="465">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/staticExamples/Mouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -115,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/multiDemensionalArray/example.java" />
-        <option value="$PROJECT_DIR$/src/multiDemensionalArray/intit.java" />
         <option value="$PROJECT_DIR$/src/multiDemensionalArray/lengthOf2D.java" />
         <option value="$PROJECT_DIR$/src/multiDemensionalArray/storeIn2D.java" />
         <option value="$PROJECT_DIR$/src/multiDemensionalArray/TwoDArrayMethods.java" />
@@ -163,15 +111,17 @@
         <option value="$PROJECT_DIR$/src/staticClass/Lexus.java" />
         <option value="$PROJECT_DIR$/src/staticClass/importingStaic.java" />
         <option value="$PROJECT_DIR$/src/staticClass/importingStatic.java" />
-        <option value="$PROJECT_DIR$/src/staticClass/Pi.java" />
         <option value="$PROJECT_DIR$/src/staticClass/ImportingStatic.java" />
         <option value="$PROJECT_DIR$/src/staticClass/BestBuyStores.java" />
+        <option value="$PROJECT_DIR$/src/staticClass/Pi.java" />
+        <option value="$PROJECT_DIR$/src/staticExamples/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/staticExamples/Tea.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="2048" />
+    <option name="height" value="1152" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,6 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,14 +149,12 @@
               <item name="Batch14Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Batch14Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="staticClass" type="462c0819:PsiDirectoryNode" />
+              <item name="staticExamples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dealer">
+  <component name="RunManager" selected="Application.Tea">
     <configuration name="BestBuyStores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="staticClass.BestBuyStores" />
       <module name="Batch14Java" />
@@ -254,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wrapperclasses.NumberChecker" />
+    <configuration name="Pi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticClass.Pi" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wrapperclasses.*" />
+          <option name="PATTERN" value="staticClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wrapperclasses.Parking" />
+    <configuration name="Tea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticExamples.Tea" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wrapperclasses.*" />
+          <option name="PATTERN" value="staticExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tea" />
+        <item itemvalue="Application.Pi" />
         <item itemvalue="Application.Dealer" />
         <item itemvalue="Application.BestBuyStores" />
         <item itemvalue="Application.hackerRankExamples" />
-        <item itemvalue="Application.NumberChecker" />
-        <item itemvalue="Application.Parking" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +467,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.17814855" />
       <window_info id="Structure" order="1" sideWeight="0.50212765" side_tool="true" weight="0.18729816" />
@@ -528,12 +477,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281893" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2355967" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44238684" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4814815" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32921812" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.44341564" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7479424" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3281893" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.27160493" />
@@ -668,20 +617,6 @@ out.substring(out.length()/2)</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/multiDemensionalArray/storeIn2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiDemensionalArray/lengthOf2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/multiDemensionalArray/intit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -1037,24 +972,6 @@ out.substring(out.length()/2)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/staticClass/Dealer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/staticClass/Lexus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-          <folding>
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/staticClass/ImportingStatic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -1065,17 +982,49 @@ out.substring(out.length()/2)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/staticClass/Pi.java">
+    <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuyStores.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="23">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/staticClass/BestBuyStores.java">
+    <entry file="file://$PROJECT_DIR$/src/staticClass/Lexus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="102">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticClass/Dealer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticClass/Pi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticExamples/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticExamples/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
