@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77994e78-d0d8-456a-ab26-3f5683cbab15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/utilities/MyCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utilities/SchoolSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalAndMemory/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalAndMemory/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalAndMemory/GC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finalAndMemory/Pink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentorings/tuesday/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentorings/tuesday/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch14Java/wrapperclasses/MagicNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch14Java/wrapperclasses/NumberChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch14Java/wrapperclasses/NumberChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wrapperclasses/MagicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/MagicNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wrapperclasses/NumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wrapperclasses/NumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/SchoolSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/SchoolSystem.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utilities/MyCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="696">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,14 +35,84 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utilities/SchoolSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="406">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/finalAndMemory/Blue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/finalAndMemory/Pink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/finalAndMemory/GC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mentorings/tuesday/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mentorings/tuesday/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/finalAndMemory/Bag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/constructors/House.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -85,12 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/multiDemensionalArray/forEach.java" />
-        <option value="$PROJECT_DIR$/src/multiDemensionalArray/randomArray.java" />
-        <option value="$PROJECT_DIR$/src/multiDemensionalArray/sumDig.java" />
-        <option value="$PROJECT_DIR$/src/multiDemensionalArray/groupProgram.java" />
-        <option value="$PROJECT_DIR$/src/casses/Testing.java" />
-        <option value="$PROJECT_DIR$/src/casses/PaperPlane.java" />
         <option value="$PROJECT_DIR$/src/casses/Flag.java" />
         <option value="$PROJECT_DIR$/src/casses/Car.java" />
         <option value="$PROJECT_DIR$/src/casses/Driver.java" />
@@ -136,6 +201,12 @@
         <option value="$PROJECT_DIR$/src/utilities/MagicNumber.java" />
         <option value="$PROJECT_DIR$/src/utilities/MyCollection.java" />
         <option value="$PROJECT_DIR$/src/utilities/SchoolSystem.java" />
+        <option value="$PROJECT_DIR$/src/finalAndMemory/Bag.java" />
+        <option value="$PROJECT_DIR$/src/finalAndMemory/Blue.java" />
+        <option value="$PROJECT_DIR$/src/finalAndMemory/Pink.java" />
+        <option value="$PROJECT_DIR$/src/finalAndMemory/GC.java" />
+        <option value="$PROJECT_DIR$/src/mentorings/tuesday/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/mentorings/tuesday/Student.java" />
       </list>
     </option>
   </component>
@@ -168,7 +239,7 @@
               <item name="Batch14Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Batch14Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="tuesday" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,13 +268,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SchoolSystem">
-    <configuration name="BestBuyStores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticClass.BestBuyStores" />
+  <component name="RunManager" selected="Application.BaseClass">
+    <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentorings.tuesday.BaseClass" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="staticClass.*" />
+          <option name="PATTERN" value="mentorings.tuesday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dealer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticClass.Dealer" />
+    <configuration name="Blue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalAndMemory.Blue" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="staticClass.*" />
+          <option name="PATTERN" value="finalAndMemory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +295,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticClass.Pi" />
+    <configuration name="GC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalAndMemory.GC" />
       <module name="Batch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="staticClass.*" />
+          <option name="PATTERN" value="finalAndMemory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalAndMemory.Pink" />
+      <module name="Batch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalAndMemory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,26 +334,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticExamples.Tea" />
-      <module name="Batch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="staticExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaseClass" />
+        <item itemvalue="Application.GC" />
+        <item itemvalue="Application.Pink" />
+        <item itemvalue="Application.Blue" />
         <item itemvalue="Application.SchoolSystem" />
-        <item itemvalue="Application.Tea" />
-        <item itemvalue="Application.Pi" />
-        <item itemvalue="Application.Dealer" />
-        <item itemvalue="Application.BestBuyStores" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575147137955</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Static continuing 2">
+      <created>1575155403618</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1575155403618</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -496,7 +574,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.18622175" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.12648009" />
       <window_info id="Structure" order="1" sideWeight="0.50212765" side_tool="true" weight="0.18729816" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -505,7 +583,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281893" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44238684" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18106996" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4814815" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,7 +592,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3621399" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.27160493" />
-      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" side_tool="true" weight="0.32992464" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497309" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -523,6 +600,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="8" side_tool="true" weight="0.32992464" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.18191604" />
@@ -577,7 +655,8 @@
     <MESSAGE value="overloading methods -- 11/5" />
     <MESSAGE value="Wrapper classes" />
     <MESSAGE value="Static continuing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static continuing" />
+    <MESSAGE value="Static continuing 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static continuing 2" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -647,54 +726,6 @@ out.substring(out.length()/2)</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/multiDemensionalArray/randomArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiDemensionalArray/sumDig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiDemensionalArray/groupProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multiDemensionalArray/forEach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/CapName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -706,13 +737,6 @@ out.substring(out.length()/2)</expression-string>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constructors/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1034,6 +1058,58 @@ out.substring(out.length()/2)</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/MyCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/SchoolSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalAndMemory/Blue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalAndMemory/Pink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalAndMemory/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constructors/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/utilities/MagicNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -1044,20 +1120,24 @@ out.substring(out.length()/2)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utilities/MyCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/finalAndMemory/GC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="377">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utilities/SchoolSystem.java">
+    <entry file="file://$PROJECT_DIR$/src/mentorings/tuesday/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mentorings/tuesday/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
