@@ -6,6 +6,13 @@ import java.util.Scanner;
 
 public class MyCollection {
 
+    public static String name;
+    public int age;
+
+    private MyCollection(){
+
+    }
+
     /**
      * This method creates list of Strings from the User.
      * Method doesn't take anything. It uses Scanner to fill the list
