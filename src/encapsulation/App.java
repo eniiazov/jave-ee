@@ -2,7 +2,7 @@ package encapsulation;
 
 import java.util.ArrayList;
 
-public class App {
+public class App extends Object {
 
     // name, category, rating, description, size, list of reviews.
     private String name;
@@ -19,6 +19,10 @@ public class App {
         this.size = size;
         numOfApps++;
         this.reviews = new ArrayList<>();
+    }
+
+    public App(){
+
     }
 
     public void info(){
