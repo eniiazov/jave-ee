@@ -8,7 +8,7 @@ public class SchoolSystem {
 
     public static void main(String[] args) {
 
-        MyCollection.getStringList();
+//        MyCollection.getStringList();
 
         System.out.println(new Random().nextInt(50));
 
