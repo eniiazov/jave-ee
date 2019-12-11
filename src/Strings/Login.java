@@ -8,7 +8,7 @@ public class Login {
         Scanner input = new Scanner(System.in);
 //        int age = input.nextInt();
 //        input.nextLine();
-        String validUser = "test";
+        String validUser = "LetterGrade";
         String validPass = "test123";
 
         System.out.println("Enter your username");
