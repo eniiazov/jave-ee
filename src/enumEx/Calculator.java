@@ -1,6 +1,6 @@
 package enumEx;
 
-public class Calculor {
+public class Calculator {
     public static void main(String[] args) {
         System.out.println(calculator(Operators.REM, 3,0));
     }
