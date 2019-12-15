@@ -12,6 +12,7 @@ public class Sun  {
          lenovo.color = "Grey";
 
          lenovo.turnOn();
+         Lenovo.s();
 
     }
 

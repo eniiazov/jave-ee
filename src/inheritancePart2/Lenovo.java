@@ -12,6 +12,11 @@ public class Lenovo extends Laptop {
     //static int numOfLaptops;
     // Methods
 
+
+      public static void s(int age){
+        System.out.println("Whatever");
+    }
+
     @Override
     public void turnOn(){
 

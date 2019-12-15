@@ -25,6 +25,10 @@ public class Laptop {
         return null;
     }
 
+    public static void s(){
+        System.out.println("static method in Laptop");
+    }
+
     protected void turnOn(){
         System.out.println("Laptop is turning on");
     }
