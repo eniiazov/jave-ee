@@ -3,7 +3,7 @@ package inheritance;
 import encapsulation.App;
 import java.util.Random;
 
-public class Dog extends Object{
+public class Dog {
 
     int age;
     String breed;

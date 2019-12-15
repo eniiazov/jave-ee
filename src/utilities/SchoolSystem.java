@@ -1,5 +1,9 @@
 package utilities;
 
+
+
+import inheritance.Camera;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
@@ -7,10 +11,11 @@ import java.util.Random;
 public class SchoolSystem {
 
     public static void main(String[] args) {
+        Camera camera = new Camera();
 
 //        MyCollection.getStringList();
 
-        System.out.println(new Random().nextInt(50));
+        System.out.println(new Random().nextInt(16));
 
 //        ArrayList<String> k = MyCollection.getStringList();
 //
