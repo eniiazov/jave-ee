@@ -1,11 +1,11 @@
-package staticClass;
+package mentorings.tuesday.staticClass;
 
 
 
 import java.util.*;
 
 import static java.util.Arrays.*;
-import static staticClass.Pi.*;
+import static mentorings.tuesday.staticClass.Pi.*;
 
 public class ImportingStatic {
 

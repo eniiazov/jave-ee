@@ -1,4 +1,4 @@
-package staticClass;
+package mentorings.tuesday.staticClass;
 
 import java.util.Random;
 

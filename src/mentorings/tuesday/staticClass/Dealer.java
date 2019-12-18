@@ -1,4 +1,4 @@
-package staticClass;
+package mentorings.tuesday.staticClass;
 
 public class Dealer {
     public static void main(String[] args) {

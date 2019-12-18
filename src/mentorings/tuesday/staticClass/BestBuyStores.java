@@ -1,5 +1,5 @@
-package staticClass;
-import static staticClass.BestBuy.*;
+package mentorings.tuesday.staticClass;
+import static mentorings.tuesday.staticClass.BestBuy.*;
 
 public class BestBuyStores {
 
