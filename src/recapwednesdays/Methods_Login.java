@@ -8,7 +8,7 @@ public class Methods_Login {
     }
 
     public static void login(){
-        //0- Create test data
+        //0- Create Test data
         String expectedUsername = "johnJava";
         String expectedPassword = "123456";
 
