@@ -15,7 +15,7 @@ public class SchoolSystem {
 
 //        MyCollection.getStringList();
 
-        System.out.println(new Random().nextInt(16));
+        System.out.println(new Random().nextInt(35));
 
 //        ArrayList<String> k = MyCollection.getStringList();
 //
