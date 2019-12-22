@@ -1,9 +1,19 @@
 package abs;
 
-public class Chrome extends Browser {
+public class Chrome extends Browser implements Bookmark{
 
     public Chrome(){
         super();
+    }
+
+    @Override
+    public void addUrlToBookmark(String url) {
+        System.out.println(url + " was added to bookmarks");
+    }
+
+    @Override
+    public void removeUrlFromBookmark(String url) {
+        System.out.println(url + " was removed from bookmarks");
     }
 
     @Override

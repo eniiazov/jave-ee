@@ -1,8 +1,23 @@
 package inheritance;
 
+import classes.Item;
 import inheritance.Dog;
 
-public class Huskey extends Dog {
+public class Huskey extends Dog implements Trainable{
+    @Override
+    public void fetch(Item item) {
+        System.out.println("Huskey is fetching " + item.name);
+    }
+
+    @Override
+    public void play() {
+
+    }
+
+    @Override
+    public void barkOnCommand() {
+
+    }
 
     String furType;
 

@@ -1,6 +1,6 @@
 package abs;
 
-public interface GoodFood {
+public interface GoodFood extends Food, Eatable{
 
     void getFood();
 
