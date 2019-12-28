@@ -22,6 +22,7 @@ public class SchoolAccountingDepartment {
 
         for(PaymentMethod p: studentPayments){
             p.charge(500);
+
         }
     }
 }

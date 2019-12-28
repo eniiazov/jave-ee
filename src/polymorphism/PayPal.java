@@ -2,6 +2,10 @@ package polymorphism;
 
 public class PayPal extends PaymentMethod {
 
+    public void payOnline(){
+        System.out.println("paying online with PayPal");
+    }
+
     @Override
     public void charge(double amount) {
         System.out.println("\nAmount charged in Paypal: " + amount);
