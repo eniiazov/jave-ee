@@ -15,7 +15,7 @@ public class SchoolSystem {
 
 //        MyCollection.getStringList();
 
-        System.out.println(new Random().nextInt(35));
+        System.out.println(new Random().nextInt(30));
 
 //        ArrayList<String> k = MyCollection.getStringList();
 //
@@ -33,9 +33,6 @@ public class SchoolSystem {
 //        System.out.println(list + "\n");
 //        ArrayList<String> k = MyCollection.removeDuplicates(list);
 //        System.out.println(k);
-
-
-
 
 
 
