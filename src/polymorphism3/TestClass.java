@@ -10,7 +10,7 @@ public class TestClass {
 
         Person student3 = new HighSchoolStudent("adam",19, 10);
 
-     //   Syste`m.out.println(student2.getGradeLevel()); -> not compiling
+     //   System.out.println(student2.getGradeLevel()); -> not compiling
         System.out.println(((HighSchoolStudent)student2).getGradeLevel());
 
     Person [] people = new Person[3];

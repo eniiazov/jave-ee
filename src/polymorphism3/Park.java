@@ -15,7 +15,7 @@ public class Park {
 
 //         Dog joe2 = (Dog)joe;
 //         GermanShephard joe3 = (GermanShephard)joe2;
-//         Trainable joe4 = (Trainable) joe3;
+         Trainable joe4 = (Trainable) joe;
 
         ((GermanShephard)joe).bark();
 
