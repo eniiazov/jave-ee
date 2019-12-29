@@ -32,6 +32,6 @@ public class HighSchoolStudent extends Student{
       return super.equals(otherStudent) && this.getGradeLevel() == otherStudent.getGradeLevel();
     }
 
-    
+
 
 }
