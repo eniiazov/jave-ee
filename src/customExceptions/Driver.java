@@ -1,4 +1,4 @@
-package exceptions;
+package customExceptions;
 
 public class Driver {
 
@@ -31,7 +31,14 @@ public class Driver {
         return location;
     }
 
-    public void setLocation(String location) {
+    public void setLocation(String location) throws InvalidLocationException{
+
+        for(int i=0; i < location.length(); i++) {
+            if(Character.isDigit(location.charAt(i))) {
+                throw new InvalidLocationException(location +  " is not a valid location");
+            }
+        }
+
         this.location = location;
     }
 }
