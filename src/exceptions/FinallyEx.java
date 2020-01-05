@@ -5,10 +5,14 @@ public class FinallyEx {
         String s= "";
         try{
           s  = "cybertek";
-            System.out.println(s.substring(3));
+            System.out.println(s.substring(30));
+
         } catch (StringIndexOutOfBoundsException e) {
             System.out.println("Index doesn't exist");
+
+
         } finally {
+
             System.out.println("The string was " + s);
         }
 
