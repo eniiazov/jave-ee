@@ -2,6 +2,8 @@ package arraylists;
 
 import classes.Item;
 
+import java.util.Arrays;
+
 public class Mall {
 
     public static void main(String[] args) {
@@ -20,6 +22,8 @@ public class Mall {
         //zara.seeInventory();
         zara.returnItem("Table");
         zara.seeInventory();
+
+
 
     }
 }
